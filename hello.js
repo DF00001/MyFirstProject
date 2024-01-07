@@ -3,3 +3,6 @@ function hello() {
 
 }
 hello();
+function yao() {
+    console.log('hhhhyao')
+}
