@@ -6,3 +6,7 @@ hello();
 function yao() {
     console.log('hhhhyao')
 }
+
+function rest() {
+    console.log('********rest********');
+}
